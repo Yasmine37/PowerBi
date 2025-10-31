@@ -23,7 +23,7 @@ The Power BI dashboard includes the following visuals:
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 ![Power BI Dashboard Preview](https://github.com/user-attachments/assets/6ed7501c-004d-4e9b-9777-a51564e7a508)
 
 
