@@ -24,6 +24,6 @@ The Power BI dashboard includes the following visuals:
 ---
 
 ## 🖼️ Dashboard Preview
-![Power BI Dashboard Preview](<img width="1213" height="681" alt="image_2025-10-31_03-31-40" src="https://github.com/user-attachments/assets/6ed7501c-004d-4e9b-9777-a51564e7a508" />
-)
+![Power BI Dashboard Preview](https://github.com/user-attachments/assets/6ed7501c-004d-4e9b-9777-a51564e7a508)
+
 
